@@ -1,0 +1,310 @@
+@media (max-width: 1500px) {
+.conteiner{
+	font-size: 40px;
+}
+.sait{
+	background-color:	#ebebeb;
+	height: 26000px;
+	width: 1300px;
+}
+.text-title span{
+	color: #fff;
+}
+.text-title{
+    margin-left: 4%;
+    font-size: 95px;
+    margin-top: 53px;
+}
+.menu{
+	display: flex;
+	text-decoration: none;
+	color: #333;
+	margin-top: -88px;
+	text-align: center;
+	justify-content: center;
+}
+.tovar{
+	text-decoration: none;
+	color: #737373;
+	font-size: 60px;
+	font-weight: 600;
+}
+.contacts{
+	text-decoration: none;
+	color: #737373;
+	margin-left: 120px;
+	font-size: 60px;
+	font-weight: 600;
+}
+.garant{
+	text-decoration: none;
+	color: #737373;
+	margin-left: 120px;
+	font-size: 60px;
+	font-weight: 600;
+}
+.img{
+	justify-content: center;
+	align-items: center;
+	height: 850px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.text-tovar{
+	text-align: center;
+	font-size: 40px;
+}
+.tovar1{
+	display: flex;
+	height: 1350px;
+	justify-content: center;
+	margin-top: -75px;
+}
+.tovar2{
+	display: flex;
+	height: 1350px;
+	justify-content: center;
+	margin-left: -10px;
+}
+.tovar3{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar4{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar5{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar6{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar7{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar8{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar9{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center;
+}
+.tovar10{
+	display: flex
+	margin-left: -10px;;
+	height: 1350px;
+	justify-content: center
+}
+.tovar11{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar12{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar13{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar14{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar15{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar16{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.tovar17{
+	display: flex;
+	margin-left: -10px;
+	height: 1350px;
+	justify-content: center
+}
+.img1{
+	margin-left: 5px;
+	margin-left: -10px;
+	margin-top: 100px;
+}
+.img2{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img3{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img4{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img5{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img6{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img7{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img8{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img9{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img10{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img11{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img12{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img13{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img14{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img15{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img16{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.img17{
+	margin-left: 5px;
+	margin-top: 100px;
+}
+.header-line{
+	background-color: #fff;
+	height: 700px;
+	margin-top: 150px;
+}
+.title2{
+	margin-top: 3665px;
+	margin-left: 40%;
+}
+.seti{
+	display: flex;
+    margin-top: 70px;
+    margin-left: 27%;
+}
+.what{
+	height: 200px;
+}
+.inst{
+	height: 200px;
+	margin-left: 160px;
+}
+#menu-toggle {
+  display: none;
+}
+
+.menu-btn {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+
+#menu {
+  display: none;
+  margin-top: 100px;
+}
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+#menu ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 100px;
+}
+
+#menu ul li {
+  margin-bottom: 10px;
+}
+
+#menu ul li a {
+  text-decoration: none;
+  color: #333;
+}
+.str{
+	width: 1300px;
+	height: 5px;
+}
+.bc{
+	width: 1300px;
+}
+.stroka{
+	margin-top: -50px;
+}
+.str1{
+	width: 1300px;
+	height: 5px;
+	margin-top: 100px;
+}
+.stroka1{
+	margin-top: -30px;
+}
+.textik{
+	margin-left: -35px;
+}
+
+
+
+
+
+
+
